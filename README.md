@@ -3,7 +3,7 @@
 This repository accompanies [*Modularizing Legacy Projects Using TDD: Test Driven Development with XCTest for iOS*](https://www.link.springer.com/book/10.1007/9781484274279) by Khaled El-Morabea, Hassaan El-Garem (Apress, 2022).
 
 [comment]: #cover
-![Cover image](9781484274279.jpg)
+![Cover image](9781484274279.JPG)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
