@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20E232" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Book" representedClassName="Book" syncable="YES">
+        <attribute name="amazon_product_url" optional="YES" attributeType="String"/>
+        <attribute name="author" optional="YES" attributeType="String"/>
+        <attribute name="book_image" optional="YES" attributeType="String"/>
+        <attribute name="contributor" optional="YES" attributeType="String"/>
+        <attribute name="created_date" optional="YES" attributeType="String"/>
+        <attribute name="desc" optional="YES" attributeType="String"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="publisher" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <relationship name="buyLinks" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="BuyLink" inverseName="book" inverseEntity="BuyLink"/>
+    </entity>
+    <entity name="BuyLink" representedClassName="BuyLink" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="url" optional="YES" attributeType="String"/>
+        <relationship name="book" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Book" inverseName="buyLinks" inverseEntity="Book"/>
+    </entity>
+    <elements>
+        <element name="Book" positionX="-365.2399291992188" positionY="-45.0093994140625" width="128" height="179"/>
+        <element name="BuyLink" positionX="-63" positionY="36" width="128" height="88"/>
+    </elements>
+</model>

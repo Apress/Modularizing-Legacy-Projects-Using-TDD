@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>black</string>
+		<key>image_name</key>
+		<string>Black</string>
+		<key>desc</key>
+		<string>Black coffee is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Latte</string>
+		<key>image_name</key>
+		<string>Latte</string>
+		<key>desc</key>
+		<string>As the most popular coffee drink out there, the latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cappuccino</string>
+		<key>image_name</key>
+		<string>Cappuccino</string>
+		<key>desc</key>
+		<string>Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Americano</string>
+		<key>image_name</key>
+		<string>Americano</string>
+		<key>desc</key>
+		<string>With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water. Pro tip: if you’re making your own, pour the espresso first, then add the hot water.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Espresso</string>
+		<key>image_name</key>
+		<string>Espresso</string>
+		<key>desc</key>
+		<string>An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Doppio</string>
+		<key>image_name</key>
+		<string>Doppio</string>
+		<key>desc</key>
+		<string>A double shot of espresso, the doppio is perfect for putting extra pep in your step.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cortado</string>
+		<key>image_name</key>
+		<string>Cortado</string>
+		<key>desc</key>
+		<string>Like yin and yang, a cortado is the perfect balance of espresso and warm steamed milk. The milk is used to cut back on the espresso’s acidity.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Red Eye</string>
+		<key>image_name</key>
+		<string>Red eye</string>
+		<key>desc</key>
+		<string>Named after those pesky midnight flights, a red eye can cure any tiresome morning. A full cup of hot coffee with an espresso shot mixed in, this will definitely get your heart racing.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Galão</string>
+		<key>image_name</key>
+		<string>Galao</string>
+		<key>desc</key>
+		<string>Originating in Portugal, this hot coffee drink is closely related to the latte and cappuccino. Only difference is it contains about twice as much foamed milk, making it a lighter drink compared to the other two.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lungo</string>
+		<key>image_name</key>
+		<string>lungo</string>
+		<key>desc</key>
+		<string>The macchiato is another espresso-based drink that has a small amount of foam on top. It’s the happy medium between a cappuccino and a doppio.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mocha</string>
+		<key>image_name</key>
+		<string>Mocha</string>
+		<key>desc</key>
+		<string>For all you chocolate lovers out there, you’ll fall in love with a mocha (or maybe you already have). The mocha is a chocolate espresso drink with steamed milk and foam.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ristretto</string>
+		<key>image_name</key>
+		<string>Ristretto</string>
+		<key>desc</key>
+		<string>Ristretto is an espresso shot. It uses less hot water which creates a sweeter flavor compared to the bitter taste of a traditional shot of espresso or a doppio.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Flat White</string>
+		<key>image_name</key>
+		<string>Flat white</string>
+		<key>desc</key>
+		<string>This Aussie-born drink is basically a cappuccino without the foam or chocolate sprinkle. It’s an espresso drink with steamed milk.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Affogato</string>
+		<key>image_name</key>
+		<string>Affogato</string>
+		<key>desc</key>
+		<string>The affogato is an excuse to enjoy a scoop of ice cream any time of day (and any time of year in my opinion). Served with a scoop of ice cream and a shot of espresso, or two. The affogato is extra delish served over a brownie.</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Café au Lait</string>
+		<key>image_name</key>
+		<string>Cafe au lait</string>
+		<key>desc</key>
+		<string>Café au lait is perfect for the coffee minimalist who wants a bit more flavor. Just add a splash of warm milk to your coffee and you’re all set!</string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Irish</string>
+		<key>image_name</key>
+		<string>Irish</string>
+		<key>desc</key>
+		<string>Irish coffee consists of black coffee, whiskey and sugar, topped with whipped cream. </string>
+		<key>is_hot</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Iced Coffee</string>
+		<key>image_name</key>
+		<string>Iced coffee</string>
+		<key>desc</key>
+		<string>A coffee with ice, typically served with a dash of milk, cream or sweetener—iced coffee is really as simple as that.</string>
+		<key>is_hot</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Iced Espresso</string>
+		<key>image_name</key>
+		<string>Iced espresso</string>
+		<key>desc</key>
+		<string>Like an iced coffee, iced espresso can be served straight or with a dash of milk, cream or sweetener. You can also ice speciality espresso-based drinks like americanos, mochas, macchiatos, lattes and flat whites.</string>
+		<key>is_hot</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cold Brew</string>
+		<key>image_name</key>
+		<string>Cold brew</string>
+		<key>desc</key>
+		<string>The trendiest of the iced coffee bunch, cold brew coffees are made by steeping coffee beans from anywhere between 6-36 hours, depending on how strong you would like your cold brew. Once the beans are done steeping, add cold milk or cream.</string>
+		<key>is_hot</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Frappuccino</string>
+		<key>image_name</key>
+		<string>Frappuccino</string>
+		<key>desc</key>
+		<string>Made famous by Starbucks, the Frappuccino is a blended iced coffee drink that’s topped with whipped cream and syrup. But not all Frapps are made the same: watch out for coffee-free versions. Unless you’re into that sorta thing.</string>
+		<key>is_hot</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nitro</string>
+		<key>image_name</key>
+		<string>Nitro</string>
+		<key>desc</key>
+		<string>A cold brew + nitrogen bubbles = a cold brew coffee with a frothy, Guinness-like consistency. (It’s poured via a nitro tap, too.)</string>
+		<key>is_hot</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mazagran</string>
+		<key>image_name</key>
+		<string>Majagran</string>
+		<key>desc</key>
+		<string>Maza-who?! Mazagran coffee is a cross between iced coffee, tea and your favorite rum drink. It typically consists of espresso, lemon, sugar and (sometimes) rum.</string>
+		<key>is_hot</key>
+		<false/>
+	</dict>
+</array>
+</plist>

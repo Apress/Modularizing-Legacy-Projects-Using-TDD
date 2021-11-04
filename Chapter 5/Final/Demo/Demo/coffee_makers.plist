@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>French Press</string>
+		<key>image_name</key>
+		<string></string>
+		<key>desc</key>
+		<string>This manual coffee maker is extremely easy to use. Add ground coffee beans into your French press, pour piping hot water over the grounds, let the coffee steep for a few minutes and finally, press the plunger down and pour! Simple as that. French presses can be used for any bean, but many people prefer using them for darker, richer roasts.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Percolator</string>
+		<key>image_name</key>
+		<string></string>
+		<key>desc</key>
+		<string>Try out a percolator to add a retro feel to your daily brew—like 1880s retro. To put it simply, percolators brew coffee by continuously pushing boiling hot water bubbles up into the “coffee chamber” to steep the coffee grains. This cycle is repeated until the coffee is ready to serve. They’re typically used for medium roasts and prepared over the stovetop, but percolators can work over any heated surface, even a campfire </string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Single Serve</string>
+		<key>image_name</key>
+		<string></string>
+		<key>desc</key>
+		<string>Single serve coffee maker sales have really peaked in the past few years. Measure out your desired coffee amount, pour into the reusable filter, pour water in and voila! A cup of coffee just for you will be ready soon. Single serve coffee makers are perfect for single-person households (or those where just one person drinks coffee). </string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>AeroPress</string>
+		<key>image_name</key>
+		<string></string>
+		<key>desc</key>
+		<string>We’ve got another manual coffee maker for you. The AeroPress is very similar to the French press. To use an AeroPress. You can make espresso, lattes, cold brews or just a classic cup of coffee in this nifty little machine.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Drip</string>
+		<key>image_name</key>
+		<string></string>
+		<key>desc</key>
+		<string>Aah, yes. The classic electric coffee maker you know and love. To get your brew going in a drip coffee maker, all you have to do is scoop your coffee, pour it into the filter, pour some water in and press start to let the drip coffee maker do it’s coffee magic. Soon, you’ll hear the sweet sounds of your coffee dripping right into your coffee pot. Mornings, conquered.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Pour Over</string>
+		<key>image_name</key>
+		<string></string>
+		<key>desc</key>
+		<string>A pour-over coffee maker is exactly what it sounds like: you manually pour hot water over the beans. With a solid 5-star rating on Amazon, pour-over coffee makers like Chemex are a solid choice. Fans love the fact that you get to control the strength of the coffee, plus the pots are super easy to clean. You do need a special kind of filter, though, which is pricier than the typical drip coffee filter. However, some are reusable.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cold Brew</string>
+		<key>image_name</key>
+		<string></string>
+		<key>desc</key>
+		<string>Diehard cold brew fans may want to invest in a cold brew coffee maker. To use a cold brew maker, throw in your coffee grounds, brew and serve. You can store the coffee for up to 36 hours. If you’re looking for a multi-functional coffee maker, you can prepare cold brew coffees in other makers, like the AeroPress.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Moka</string>
+		<key>image_name</key>
+		<string></string>
+		<key>desc</key>
+		<string>Moka pots share a lot of similarities with the percolator and there’s often confusion between the two. Both need a heated surface, like a stovetop or even a campfire. However, the Moka pot produces an espresso-like drink and its brewing process is a bit different than the percolator. You need to keep more of an eye on it because when the Moka pot’s water is spent, you should remove the pot from the heat surface to avoid burnt-tasting coffee. Whereas with the percolator’s simple brewing process, the longer you leave it running, the stronger the coffee will be.</string>
+	</dict>
+</array>
+</plist>

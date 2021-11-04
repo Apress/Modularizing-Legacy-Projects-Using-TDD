@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Instabug",
+        "repositoryURL": "https://github.com/Instabug/Instabug-SP",
+        "state": {
+          "branch": null,
+          "revision": "fb88c4b279ac469bcce26414d24876a3cb079250",
+          "version": "10.7.5"
+        }
+      },
+      {
+        "package": "Swifter",
+        "repositoryURL": "https://github.com/httpswift/swifter",
+        "state": {
+          "branch": null,
+          "revision": "9483a5d459b45c3ffd059f7b55f9638e268632fd",
+          "version": "1.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
